@@ -18,6 +18,6 @@ You'll be prompted by the command terminal (or your code editor) to enter your a
 For example, "Which position would like to place your marker". 
 
 The num pad on your key board represents the positions of the board:
-7 8 9
-4 5 6
-1 2 3
+7 8 9 <br>
+4 5 6 <br>
+1 2 3 <br>
