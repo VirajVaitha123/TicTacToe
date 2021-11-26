@@ -5,7 +5,7 @@
 Create an interactive game based on user inputs and a board created with strings within this Jupyter notebook.
 The main purpose of this project is to introduce how logic can be chained together to produce a simple game.
 
-When I first started programming, I purchased the "The Complete Python Bootcamp From Zero to Hero in Python". Like most developers, I part completed many of courses and struggled specifically with the milestone project. Since I've came a long way since then, I decided to return to some of these courses and see how difficult some of the assignments felt now. Also its nice to build the habit of completing what you started. 
+When I first started programming, I purchased the "The Complete Python Bootcamp From Zero to Hero in Python". Like most developers, I part completed many of courses and struggled specifically with the milestone project. Since I've came a long way since then, I decided to return to some of these courses and see how difficult some of the assignments felt now. Also it's nice to build the habit of completing what you started. 
 
 Fortunately it was very easy, helped brush up on my fundamentals and practice my coding skills.
 
